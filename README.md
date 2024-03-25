@@ -17,7 +17,7 @@ Built as a single-page application using React, Electronic Emporium ensures a se
 ## Getting Started:
 1. Clone repository:
 ```bash
-git clone 
+git clone https://github.com/muhammad-iqbal-qadri/ElectronicEmporium-React-App.git
 ```
 2. Install Dependencies:
 ```bash
